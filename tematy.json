@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "temat": "Czy w ciągu najbliższych 24h SpaceX planuje start Starshipa, próbę statyczną (static fire) lub testy w Boca Chica? Podaj godzinę, cel i linki do transmisji live.",
+    "aktywny": true
+  },
+  {
+    "id": 2,
+    "temat": "Czy w ciągu najbliższych 24h prognozowana jest zorza polarna widoczna z terytorium Polski lub silny rozbłysk słoneczny (klasy M/X)?",
+    "aktywny": true
+  },
+  {
+    "id": 3,
+    "temat": "Czy wydano nową wersję stabilną dystrybucji Linux Debian lub Q4OS w ciągu ostatnich 24 godzin?",
+    "aktywny": true
+  },
+  {
+    "id": 4,
+    "temat": "Czy opublikowano oficjalny komunikat o bezpłatnych grach tygodnia na Epic Games Store na najbliższe dni?",
+    "aktywny": true
+  },
+  {
+    "id": 5,
+    "temat": "Czy zapowiedziano nowy oficjalny dodatek lub dodruk do gry planszowej Carcassonne w ciągu ostatnich 7 dni?",
+    "aktywny": false
+  },
+  {
+    "id": 6,
+    "temat": "Czy ogłoszono ważne zmiany w polskich przepisach ruchu drogowego wchodzące w życie w tym miesiącu?",
+    "aktywny": true
+  }
+]

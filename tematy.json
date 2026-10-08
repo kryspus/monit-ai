@@ -1,37 +1,37 @@
 [
   {
     "id": 1,
-    "temat": "Czy w ciągu najbliższych 24h SpaceX planuje start Starshipa, próbę statyczną (static fire) lub testy w Boca Chica? Podaj godzinę, cel i linki do transmisji live.",
+    "temat": "Czy w ciągu najbliższych 48h SpaceX planuje start Starshipa, próbę statyczną (static fire) lub testy w Boca Chica? Podaj godzinę, cel i linki do transmisji live.",
     "aktywny": true
   },
   {
     "id": 2,
-    "temat": "Czy w ciągu najbliższych 24h prognozowana jest zorza polarna widoczna z terytorium Polski lub silny rozbłysk słoneczny (klasy M/X)?",
+    "temat": "Czy w ciągu najbliższych 48h prognozowana jest zorza polarna widoczna z terytorium Polski lub silny rozbłysk słoneczny (klasy M/X)?",
     "aktywny": true
   },
   {
     "id": 3,
-    "temat": "Czy wydano nową wersję stabilną dystrybucji Linux Debian lub Q4OS w ciągu ostatnich 24 godzin?",
-    "aktywny": false
+    "temat": "Czy w Amazon Luna będzie jakaś rotacja gier w najbliższych 48h. Czy coś zniknie czy coś się pojawi.",
+    "aktywny": true
   },
   {
     "id": 4,
-    "temat": "Czy opublikowano oficjalny komunikat o bezpłatnych grach tygodnia na Epic Games Store na najbliższe dni?",
+    "temat": "Czy w ciagu 24h pojawi się jakaś nowa darmowa gra na Epic Games Store lub Steam?",
     "aktywny": true
   },
   {
     "id": 5,
-    "temat": "Czy zapowiedziano nowy oficjalny dodatek lub dodruk do gry planszowej Carcassonne w ciągu ostatnich 7 dni?",
+    "temat": "",
     "aktywny": false
   },
   {
     "id": 6,
-    "temat": "Czy ogłoszono ważne zmiany w polskich przepisach ruchu drogowego wchodzące w życie w tym miesiącu?",
+    "temat": "Czy ogłoszono lub wchodza w życie ważne zmiany w polskich przepisach ruchu drogowego wchodzące w życie w tym miesiącu?",
     "aktywny": true
   },
     {
     "id": 7,
-    "temat": "Czy w Amazon Luna będzie jakaś rotacja gier w najbliższych 48h. Czy coś zniknie czy coś się pojawi.",
+    "temat": "Czy powiedzieli disiaj coś istotnego Donal Trump, Putin lub Nathanaiu?",
     "aktywny": true
   }
 ]

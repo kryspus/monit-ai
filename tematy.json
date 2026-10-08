@@ -12,7 +12,7 @@
   {
     "id": 3,
     "temat": "Czy wydano nową wersję stabilną dystrybucji Linux Debian lub Q4OS w ciągu ostatnich 24 godzin?",
-    "aktywny": true
+    "aktywny": false
   },
   {
     "id": 4,
